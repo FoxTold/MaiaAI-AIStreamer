@@ -10,7 +10,9 @@ The project consists of the following models:
 * Live Chat Scraper
 * VTube Studio (https://store.steampowered.com/app/1325860/VTube_Studio/)
 
-![](readme_videos/media1.mp4)
-![](readme_videos/media2.mp4)
-![](readme_videos/media3.mp4)
-![](readme_videos/media4.mp4)
+## DEMO VIDEOS
+
+* Main menu - start stream (https://youtu.be/wR4mIulJdbo)
+* Interaction with chat - chat is visible in bottom right corner (https://youtu.be/gAm866bahG0)
+* Maia comments gameplay - (https://youtu.be/4pGIwBkpO2w)
+* Reaction to new follower - (https://youtu.be/W6hQIeNJNgo)
