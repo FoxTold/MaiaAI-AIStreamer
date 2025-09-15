@@ -1,0 +1,11 @@
+.venv
+clips
+
+*.mp4
+*.mp3
+*.wav
+
+Meta-Llama-3-8B-Instruct
+
+__pycache__/
+*.pyc
